@@ -2,4 +2,7 @@
 def usd_to_eur
 end
 
-def eur
+def eur_to_usd
+end
+
+
