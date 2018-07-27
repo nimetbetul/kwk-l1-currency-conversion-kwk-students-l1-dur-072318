@@ -3,7 +3,7 @@
 def usd_to_eur(dollar)
 end
 
-def eur_to_usd
+def eur_to_usd(euro)
 end
 
 
